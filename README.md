@@ -14,3 +14,5 @@ author={Shuchang Shen and Sachith Seneviratne and Xinye Wanyan and Michael Kirle
       primaryClass={cs.CV},
       url={https://arxiv.org/abs/2303.07035}, 
 }
+
+<a href='https://github.com/CharmonyShen/FireRisk'> Fire Risk Dataset GitHub</a>
