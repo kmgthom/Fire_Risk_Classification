@@ -6,18 +6,11 @@ The analysis concludes that it may be possible to use remote sensing imagery to 
 
 ### Data Source
 @misc{shen2023fireriskremotesensingdataset,
-
 title={FireRisk: A Remote Sensing Dataset for Fire Risk Assessment with Benchmarks Using Supervised and Self-supervised Learning}, 
-
-author={Shuchang Shen and Sachith Seneviratne and Xinye Wanyan and Michael Kirley},
-      
+author={Shuchang Shen and Sachith Seneviratne and Xinye Wanyan and Michael Kirley}, 
       year={2023},
-      
       eprint={2303.07035},
-      
       archivePrefix={arXiv},
-      
       primaryClass={cs.CV},
-      
       url={https://arxiv.org/abs/2303.07035}, 
 }
